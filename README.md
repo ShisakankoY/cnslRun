@@ -2,7 +2,7 @@
 
 /Japanese/
 当リポジトリでは、console.log();を、cnslRun();に置き換えるためのものです。
-https://cdn.jsdelivr.net/gh/ShisakankoY/cnslRun/cnslRun.js
+https://cdn.jsdelivr.net/gh/ShisakankoY/cnslRun@main/cnslRun.js
 でscriptタグを作っていただき、htmlファイル上に記述していただくとおつかいになれます。
 
 構文
@@ -11,7 +11,7 @@ cnslRun();
 
 /English/
 This repository replaces console.log(); with cnslRun();.
-Create a script tag at https://cdn.jsdelivr.net/gh/ShisakankoY/cnslRun/cnslRun.js
+Create a script tag at https://cdn.jsdelivr.net/gh/ShisakankoY/cnslRun@main/cnslRun.js
 and include it in your HTML file.
 
 Syntax
