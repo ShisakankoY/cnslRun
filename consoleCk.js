@@ -1,7 +1,7 @@
-// consoleGo.js
+// consoleCk.js
 
 (function(global) {
-  global.consoleGo = function(...args) {
+  global.consoleCk = function(...args) {
     console.log(...args);
   };
 })(typeof window !== "undefined" ? window : global);
