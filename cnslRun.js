@@ -1,7 +1,7 @@
-// consoleTest.js
+// cnslRun.js
 
 (function(global) {
-  global.consoleTest = function(...args) {
+  global.cnslRun = function(...args) {
     console.log(...args);
   };
 })(typeof window !== "undefined" ? window : global);
