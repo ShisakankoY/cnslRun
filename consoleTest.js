@@ -1,7 +1,7 @@
-// consoleCk.js
+// consoleTest.js
 
 (function(global) {
-  global.consoleCk = function(...args) {
+  global.consoleTest = function(...args) {
     console.log(...args);
   };
 })(typeof window !== "undefined" ? window : global);
